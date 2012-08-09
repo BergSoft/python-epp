@@ -1,16 +1,10 @@
-python-sidn-epp
+python-epp
 ===============
-
 Python port of the php5 EPP client for SIDN by Mijndomein.nl
-
-Based on https://github.com/true/sidnepp/
+Many thanks to http://www.mijndomein.nl and Ewout de Graaf for giving me permission to port their client to Python,
+and publish the port on GitHub.
 
 
 License
 =======
-**THE BEER-WARE LICENSE**
-
-Sjaak Trekhaak wrote this file. As long as you retain this notice you can do whatever you want with this stuff. 
-If we meet some day, and you think this stuff is worth it, you can buy me a beer in return.
-
-License originally authored by Poul-Henning Kamp (phk).
+**For the official license, see the included LICENSE file.**
